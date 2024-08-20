@@ -3,7 +3,7 @@
 ## Kroki:
 
 1. **Tworzenie subdomeny**  
-   Utwórz subdomenę na swoim serwerze.
+   Utwórz subdomenę stagingową przez panel vhost.
 
 2. **Zmiana wersji PHP**  
    Zaktualizuj wersję PHP na najnowszą dostępną wersję.
